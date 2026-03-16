@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mai Esmail</h1>
+[<h1 align="center">Hi 👋, I'm Mai Esmail</h1>
 <h3 align="center">Artificial Intelligence Student | Machine Learning | Deep Learning | NLP</h3>
 
 <p align="center">
@@ -103,3 +103,4 @@ Faculty of Computers and Artificial Intelligence — Cairo University
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+](https://media.giphy.com/media/l0HU7JI1nzQ2X6dQ4/giphy.gif)
