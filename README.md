@@ -65,22 +65,23 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
 <img src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg" align="right" height="300em" width="450em" >
 
 
-### 📊 *Data Science & Analysis*  
-🔹 Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📉 | Seaborn 🌊  
+### 📊 *Data Science & Analysis*
+🔹 Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📉 | Seaborn 🌊 | Scikit-learn 🤖
 
-### 🗄 *Databases & SQL*  
-🔹 Microsoft SQL Server 🏢 | Database Management 📂 | SQL Queries ⚡  
+### 🗄 *Databases & SQL*
+🔹 Microsoft SQL Server 🏢 | Database Management 📂 | SQL Queries ⚡️  
 
-### 🎨 *Frontend Web Development*  
-🔹 HTML5 🌐 | CSS3 💅 | JavaScript ⚡  
+### 🤖 *Artificial Intelligence*
+🔹 Machine Learning | Deep Learning | Natural Language Processing (NLP)
 
-### 🛠 Upcoming Learning Goals 
+### 🎨 *Web Development*
+🔹 HTML5 🌐 | CSS3 💅 | JavaScript ⚡️ | PHP | Laravel | FastAPI
 
-🔹 Advanced AI & ML 🤖 | Algorithms & Data Structures ⚙ | Real-world Projects 💼
+### 💻 *Programming*
+🔹 Python 🐍 | C++ ⚙️
 
-### 🔭 On the Horizon
-
-🔹 Portfolio Project 🗃 | FinTrack Project 💰 | Backend & APIs 📦 | Board Games Project 🎲
+### 🛠 Upcoming Learning Goals
+🔹 Advanced AI & ML 🤖 | Algorithms & Data Structures ⚙️ | Real-world Projects 💼
 
 
 <br>
