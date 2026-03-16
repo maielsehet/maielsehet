@@ -27,11 +27,11 @@ Faculty of Computers and Artificial Intelligence — Cairo University
 
 ---
 
-# 📊 GitHub Statistics
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="25"> Statistics
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=maielsehet&show_icons=true&theme=algolia"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=maielsehet&show_icons=true&locale=en&theme=algolia"/>
 
 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=maielsehet&theme=algolia"/>
 
